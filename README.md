@@ -23,7 +23,7 @@ Attualmente sto imparando/approfondendo:
 <!-- Sostituisci con i tuoi dati reali -->
 | Competizione | Edizione | Graduatoria territoriale|Graduatoria nazionale|
 |-------------------|-------------|-----------------|---------------------|
-|<img src="	https://olicyber.it/favicon-16x16.png" width=20>  [Olicyber](https://olicyber.it)| 2025|64|N/D|
+|<img src="https://olicyber.it/favicon-16x16.png" width=20>  [Olicyber](https://olicyber.it)| 2025|64|N/D|
 
 
 
