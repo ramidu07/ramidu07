@@ -1,14 +1,16 @@
 # 👋 Ciao, sono Ramidu. 
 
-**🔒 Appassionato di Cybersecurity | 🎓 Studente | 🏆 CTF Player | Verona**
+**🔒 Appassionato di Cybersecurity | 🎓 Studente | 🏆 CTF Player | 📍Verona**
 
 ## 🛡️ Chi Sono
 
 Sono uno studente appassionato di cybersecurity con un focus su:
-- **Digital Forensics** 📱
 - **CTF Competitions** 🏴‍☠️
 - **Reverse Engineering** ⚙️
 - **Penetration Testing** 🔍
+- **Crypto** 🔒
+- **Web security** 🌐
+- **Network security** 🛜
 
 Attualmente sto imparando/approfondendo:
 - [ ] Strumenti come Ghidra, Wireshark
@@ -21,7 +23,7 @@ Attualmente sto imparando/approfondendo:
 <!-- Sostituisci con i tuoi dati reali -->
 | Competizione | Edizione | Graduatoria territoriale|Graduatoria nazionale|
 |-------------------|-------------|-----------------|---------------------|
-| Olicyber    | 2025|64|N/D|
+| [![Olicyber](https://img.shields.io/badge/Olicyber-2A2F4F?logo=bookstack)   | 2025|64|N/D|
 
 
 
