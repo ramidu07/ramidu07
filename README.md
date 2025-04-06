@@ -4,16 +4,15 @@
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/tuo-profilo)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/tuo-profilo)
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/tuo-profilo)
-[![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/tuo-profilo)
+[![Olicyber](https://img.shields.io/badge/-Olicyber-2A2F4F?logo=bookstack&logoColor=white)](https://training.olicyber.it/player)
 
 ## 🛡️ Chi Sono
 
 Sono uno studente appassionato di cybersecurity con un focus su:
-- **Penetration Testing** 🔍
 - **Digital Forensics** 📱
-- **Reverse Engineering** ⚙️
 - **CTF Competitions** 🏴‍☠️
+- **Reverse Engineering** ⚙️
+- **Penetration Testing** 🔍
 
 Attualmente sto imparando/approfondendo:
 - [ ] Strumenti come Burp Suite, Ghidra, Metasploit
