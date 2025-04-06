@@ -23,7 +23,7 @@ Attualmente sto imparando/approfondendo:
 <!-- Sostituisci con i tuoi dati reali -->
 | Competizione | Edizione | Graduatoria territoriale|Graduatoria nazionale|
 |-------------------|-------------|-----------------|---------------------|
-|<img src="https://olicyber.it/favicon-16x16.png" width=20>  [Olicyber](https://olicyber.it)| 2025|64|N/D|
+|<img src="https://olicyber.it/favicon-16x16.png" width=20>  [ Olicyber](https://olicyber.it)| 2025|64|N/D|
 
 
 
@@ -40,7 +40,7 @@ Attualmente sto imparando/approfondendo:
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmR1N2Zjcnl6NTRwZnM5YmNuaTc3YWd4NzVwMzU1eHI5Y3UxNXgyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
 
 ###
