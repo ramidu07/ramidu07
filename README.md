@@ -23,7 +23,7 @@ Attualmente sto imparando/approfondendo:
 <!-- Sostituisci con i tuoi dati reali -->
 | Competizione | Edizione | Graduatoria territoriale|Graduatoria nazionale|
 |-------------------|-------------|-----------------|---------------------|
-| <img src="https://training.olicyber.it/apple-touch-icon.png" width=16> [Olicyber](https://training.olicyber.it) | 2025|64|N/D|
+| <img src="https://training.olicyber.it/favicon.ico" width=20 height=20>  [Olicyber](https://training.olicyber.it) | 2025|64|N/D|
 
 
 
