@@ -1,4 +1,4 @@
-# 👋 Ciao, sono Ramidu. 
+# Ramidu Lankash. 
 
 **🔒 Appassionato di Cybersecurity | 🎓 Studente | 🏆 CTF Player | 📍Verona**
 
@@ -13,7 +13,7 @@ Sono uno studente appassionato di cybersecurity con un focus su:
 - **Network security** 🛜
 
 Attualmente sto imparando/approfondendo:
-- [ ] Strumenti come Ghidra, Wireshark
+- [ ] Strumenti come Ghidra, Wireshark, Burbsuite, Nmap
 - [ ] Linguaggi: Python, Bash, Assembly, C, C++, SQL
 
 ## 📊 Statistiche Cybersecurity
