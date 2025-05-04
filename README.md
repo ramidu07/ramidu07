@@ -32,8 +32,4 @@ Attualmente sto imparando/approfondendo:
 📧 Email: hapuarachchige.ramidu@gmail.com  
 
 
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2tjdG1keTNwbWYyczdjdzl2bTRkeWJsOTVwc3U0ZHBjdzNkb2E2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif"  />
-</div>
-
 ###
